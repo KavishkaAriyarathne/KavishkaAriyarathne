@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KavishkaAriyarathne
-- 👀 I’m interested in Frontend Development / UIUX Engineering
-- 🌱 I’m currently learning UiUx designing (Figma)
+- 👀 I’m interested in Frontend Development / UIUX Designing
+- 🌱 I’m currently learning UIUX Designing (Figma)
 - 📫 How to reach me kavishkaariyarathne99@gmail.com
 
 <!---
